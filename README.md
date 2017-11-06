@@ -16,11 +16,10 @@ CommandBox is one of the most important contributions to the ColdFusion communit
 1. [Download CommandBox with JRE](https://www.ortussolutions.com/products/commandbox)
 Put this in some folder on a thumb drive for this example I will use I: drive then inside of this folder you want to do 3 things. Create a file called commandbox.properties inside this file place this text. It is going to me your CommandBox home directory. Here is the text. commandbox\_home=I:\\ODWCAWS\\home\\.CommandBox
 double back slashes are needed because it needs to be escaped.
-2. [Download the Go language](https://golang.org/) this is only if you want to recompile the caws.exe file. Here are instructions for that here.
-3.
-3.Create 2 empty folders called home and websites. The home folder is where the variable commandbox\_home variable is pointing to in the commandbox.properties file.
-Once done your folder structure should look like this.
- ![directory](https://user-images.githubusercontent.com/530964/32448028-c7008990-c2db-11e7-95c7-dd9d1922d167.jpg)
+2. [Download the Go language](https://golang.org/) this is only if you want to recompile the caws.exe file. Here are instructions for that here.  
+3.Create 2 empty folders called home and websites. The home folder is where the variable commandbox\_home variable is pointing to in the commandbox.properties file.  
+Once done your folder structure should look like this.  
+ ![directory](https://user-images.githubusercontent.com/530964/32448028-c7008990-c2db-11e7-95c7-dd9d1922d167.jpg)  
 4. In the website directory pull down the repository from
  [https://github.com/murpg/caws](https://github.com/murpg/caws)
 Create a folder to hold your website. It can be named anything. Add this folder to your .gitignore file and update your server.json
