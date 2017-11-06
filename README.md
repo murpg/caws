@@ -35,5 +35,5 @@ Follow the steps below
 Important that you add an account with admin privileges  
 ![nssm4](https://user-images.githubusercontent.com/530964/32448577-460c8b70-c2dd-11e7-9c7d-4677b91686e4.jpg)  
 ![nssm5](https://user-images.githubusercontent.com/530964/32448598-557962d6-c2dd-11e7-8331-fa134fde72af.jpg)   
-Click the okay button. If you have followed all steps you will see a button that says CAWS successfully started.  
+Click the install service button. If you have followed all steps you will see a button that says CAWS successfully started.  
 6. Next CD to the directory where you installed caws.exe run caws start if on CMD run .\caws start if on Powershell
