@@ -24,9 +24,11 @@ Once done your folder structure should look like this.
  [https://github.com/murpg/caws](https://github.com/murpg/caws)
 Create a folder to hold your website. It can be named anything. Add this folder to your .gitignore file and update your server.json
 at ODWCAWS\websites\server.json  
-&quot;openBrowserURL&quot;:&quot;/whateveryounamedfolder&quot;
-5. [Download NSSM](https://nssm.cc/download) to setup a Windows Service create a folder called utilities at [\\ODWCAWS\utilities](./../../%5C%5CODWCAWS%5Cutilities)
+&quot;openBrowserURL&quot;:&quot;/whateveryounamedfolder&quot;   
 Follow the steps below  
+5. [Download NSSM](https://nssm.cc/download) to setup a Windows Service create a folder called utilities at [\\ODWCAWS\utilities](./../../%5C%5CODWCAWS%5Cutilities)  
+
+
  ![](data:image/*gwUEIAABCECgqwT++X2/8v8BgbFhL1DoikQAAAAASUVORK5CYII=)
 ![nssm1](https://user-images.githubusercontent.com/530964/32448281-82657c04-c2dc-11e7-85a9-f0f1af1ebb92.jpg)  
 ![nssm2](https://user-images.githubusercontent.com/530964/32448304-924c8db0-c2dc-11e7-97ab-bf6a930fee20.jpg)  
