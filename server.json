@@ -1,0 +1,20 @@
+{
+    "name":"caws",
+    "openBrowser":true,
+    "debug":false,
+    "web":{
+        "host":"localhost",
+        "webroot":".",
+        "http":{
+            "port":8080
+        }
+    },
+    "JVM":{
+        "heapSize":"2048"
+    },
+    "openBrowserURL":"/odwdemo2017",
+    "trayEnable":true,
+    "app":{
+        "cfengine":"lucee@4.5.5+006"
+    }
+}

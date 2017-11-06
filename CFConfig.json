@@ -1,0 +1,22 @@
+{
+  "datasources": {
+    "contentbox": {
+      "clob": "false",
+      "storage": "true",
+      "metaCacheTimeout": "60000",
+      "allow": "511",
+      "blob": "false",
+      "host": "db",
+      "dbdriver": "MySQL",
+      "password": "cblogin",
+      "database": "contentbox",
+      "dsn": "jdbc:mysql://localhost:3306/contentbox",
+      "custom": "useUnicode=true&characterEncoding=UTF-8&useLegacyDatetimeCode=true",
+      "port": "3306",
+      "class": "org.gjt.mm.mysql.Driver",
+      "validate": "false",
+      "username": "cblogin",
+      "connectionTimeout": "1"
+    }
+  }
+}
