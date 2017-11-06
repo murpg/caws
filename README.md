@@ -29,11 +29,11 @@ at ODWCAWS\websites\server.json
 5. [Download NSSM](https://nssm.cc/download) to setup a Windows Service create a folder called utilities at [\\ODWCAWS\utilities](./../../%5C%5CODWCAWS%5Cutilities)
 Follow the steps below  
  ![](data:image/*gwUEIAABCECgqwT++X2/8v8BgbFhL1DoikQAAAAASUVORK5CYII=)
-![nssm1](https://user-images.githubusercontent.com/530964/32448281-82657c04-c2dc-11e7-85a9-f0f1af1ebb92.jpg)
-![nssm2](https://user-images.githubusercontent.com/530964/32448304-924c8db0-c2dc-11e7-97ab-bf6a930fee20.jpg)
-![nssm3](https://user-images.githubusercontent.com/530964/32448346-a8ec8250-c2dc-11e7-992a-b942fee3d717.jpg)
+![nssm1](https://user-images.githubusercontent.com/530964/32448281-82657c04-c2dc-11e7-85a9-f0f1af1ebb92.jpg)  
+![nssm2](https://user-images.githubusercontent.com/530964/32448304-924c8db0-c2dc-11e7-97ab-bf6a930fee20.jpg)  
+![nssm3](https://user-images.githubusercontent.com/530964/32448346-a8ec8250-c2dc-11e7-992a-b942fee3d717.jpg)  
 Important that you add an account with admin privileges  
-![nssm4](https://user-images.githubusercontent.com/530964/32448577-460c8b70-c2dd-11e7-9c7d-4677b91686e4.jpg)
-![nssm5](https://user-images.githubusercontent.com/530964/32448598-557962d6-c2dd-11e7-8331-fa134fde72af.jpg)  
-Click the okay button. If you have followed all steps you will see a button that says CAWS successfully started.
+![nssm4](https://user-images.githubusercontent.com/530964/32448577-460c8b70-c2dd-11e7-9c7d-4677b91686e4.jpg)  
+![nssm5](https://user-images.githubusercontent.com/530964/32448598-557962d6-c2dd-11e7-8331-fa134fde72af.jpg)   
+Click the okay button. If you have followed all steps you will see a button that says CAWS successfully started.  
 6. Next CD to the directory where you installed caws.exe run caws start if on CMD run .\caws start if on Powershell
